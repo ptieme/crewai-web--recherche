@@ -1,4 +1,4 @@
-# crewai-web--recherche
+# crewai-web-recherche
 Mini-projekt mit Crewai für web-Scraping, RAG und Textgeneierung
 web -Recherche- workflow mit CrewAI.
 dieses Mini-Projekt zeigt einen eifachen End-To-End Workflow mit **CrewAI**.
