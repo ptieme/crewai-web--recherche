@@ -1,9 +1,9 @@
 # crewai-web--recherche
 Mini-projekt mit Crewai für web-Scraping, RAG und Textgeneierung
-web -Recherche- workflow mit CrewAI
-Dieses Mini-Projekt zeigt einen eifachen End-To-End Workflow mit **CrewAI**
-Eine Webseite wird automatisch gecrwalt, also WIKIPEDIA 
-der Inhalt lokal gespeichert,
+web -Recherche- workflow mit CrewAI.
+dieses Mini-Projekt zeigt einen eifachen End-To-End Workflow mit **CrewAI**.
+eine Webseite wird automatisch gecrwalt, also WIKIPEDIA.
+Der Inhalt lokal gespeichert,
 und anschließend per Textsuche als kontext für eine Antwortgenerierung verwendet (RAG-PRINZIP)
 
 
